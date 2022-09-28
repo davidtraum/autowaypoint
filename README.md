@@ -1,4 +1,4 @@
-# Waypoint generator for Garmin navigation
+# Waypoint generator for Garmin outdoor navigation
 
 ## About
 This tool automatically adds points of interests to your planned GPS-Route instead of manually adding them using Garmin Connect. They will be viewed on modern Garmin navgigation devices. POIs are queried using the pubic Overpass-Turbo API.
