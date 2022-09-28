@@ -3,6 +3,8 @@
 ## About
 This tool automatically adds points of interests to your planned GPS-Route instead of manually adding them using Garmin Connect. They will be viewed on modern Garmin navgigation devices. POIs are queried using the pubic Overpass-Turbo API.
 
+![example.png](example.png)
+
 ## Required software
 NPM and Node
 
