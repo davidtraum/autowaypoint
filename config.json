@@ -1,0 +1,55 @@
+{
+    "points": [
+        {
+            "tag": "tourism",
+            "value": "viewpoint",
+            "marker": "OVERLOOK",
+            "min_distance": 1
+        },
+        {
+            "tag": "shop",
+            "value": "bicycle",
+            "marker": "SHOP",
+            "min_distance": 1
+        },
+        {
+            "tag": "shop",
+            "value": "supermarket",
+            "marker": "FOOD",
+            "min_distance": 0.5,
+            "filter": {
+                "name": ["denns", "dm", "lidl", "aldi", "billa"]
+            }
+        },
+        {
+            "tag": "water",
+            "value": "lake",
+            "marker": "BRIDGE",
+            "min_distance": 1
+        },
+        {
+            "tag": "amenity",
+            "value": "toilets",
+            "marker": "TOILET",
+            "min_distance": 1
+        },
+        {
+            "tag": "amenity",
+            "value": "water_source",
+            "marker": "WATER",
+            "min_distance": 1
+        },
+        {
+            "tag": "tourism",
+            "value": "camp_site",
+            "marker": "CAMPSITE",
+            "min_distance": 3
+        },
+        {
+            "tag": "tourism",
+            "value": "picnic_site",
+            "marker": "REST AREA",
+            "min_distance": 1
+        }
+    ]
+}
